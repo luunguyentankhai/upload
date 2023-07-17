@@ -1,0 +1,34 @@
+<variant
+    name="release"
+    package="com.example.settings_screen.host"
+    minSdkVersion="16"
+    targetSdkVersion="31"
+    mergedManifest="D:\flutter(dart code)-workspace\settings_screen\build\host\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="D:\flutter(dart code)-workspace\settings_screen\build\host\intermediates\default_proguard_files\global\proguard-android.txt-7.3.0"
+    partialResultsDir="D:\flutter(dart code)-workspace\settings_screen\build\host\intermediates\lint_vital_partial_results\release\out"
+    desugaredMethodsFiles="C:\Users\KEViN\.gradle\caches\transforms-3\bd65921de16db1d78bd37241e498ab28\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <mainArtifact
+      classOutputs="D:\flutter(dart code)-workspace\settings_screen\build\host\intermediates\javac\release\classes;D:\flutter(dart code)-workspace\settings_screen\build\host\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.example.settings_screen.host"
+      generatedSourceFolders="D:\flutter(dart code)-workspace\settings_screen\build\host\generated\ap_generated_sources\release\out;D:\flutter(dart code)-workspace\settings_screen\build\host\generated\aidl_source_output_dir\release\out;D:\flutter(dart code)-workspace\settings_screen\build\host\generated\source\buildConfig\release;D:\flutter(dart code)-workspace\settings_screen\build\host\generated\renderscript_source_output_dir\release\out"
+      generatedResourceFolders="D:\flutter(dart code)-workspace\settings_screen\build\host\generated\res\rs\release;D:\flutter(dart code)-workspace\settings_screen\build\host\generated\res\resValues\release">
+  </mainArtifact>
+</variant>
