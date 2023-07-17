@@ -1,0 +1,8 @@
+com.example.settings_screen-pngs-0 D:\flutter(dart code)-workspace\settings_screen\.android\build\generated\res\pngs\release
+com.example.settings_screen-resValues-1 D:\flutter(dart code)-workspace\settings_screen\.android\build\generated\res\resValues\release
+com.example.settings_screen-rs-2 D:\flutter(dart code)-workspace\settings_screen\.android\build\generated\res\rs\release
+com.example.settings_screen-mergeReleaseResources-3 D:\flutter(dart code)-workspace\settings_screen\.android\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.settings_screen-mergeReleaseResources-4 D:\flutter(dart code)-workspace\settings_screen\.android\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.settings_screen-merged_res-5 D:\flutter(dart code)-workspace\settings_screen\.android\build\intermediates\merged_res\release
+com.example.settings_screen-main-6 D:\flutter(dart code)-workspace\settings_screen\.android\src\main\res
+com.example.settings_screen-release-7 D:\flutter(dart code)-workspace\settings_screen\.android\src\release\res

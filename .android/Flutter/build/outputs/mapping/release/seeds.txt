@@ -1,0 +1,253 @@
+com.example.settings_screen.R$string
+com.example.settings_screen.R$styleable
+com.example.settings_screen.R$id
+io.flutter.plugins.GeneratedPluginRegistrant
+com.example.settings_screen.R
+com.example.settings_screen.R$attr
+com.example.settings_screen.R$drawable
+com.example.settings_screen.R$integer
+com.example.settings_screen.R$style
+com.example.settings_screen.R$dimen
+com.example.settings_screen.R$color
+com.example.settings_screen.R$layout
+com.example.settings_screen.R$styleable: int ColorStateListItem_android_alpha
+com.example.settings_screen.R$style: int TextAppearance_Compat_Notification
+com.example.settings_screen.R$attr: int activityAction
+com.example.settings_screen.R$id: int ltr
+com.example.settings_screen.R$attr: int shortcutMatchRequired
+com.example.settings_screen.R$id: int accessibility_custom_action_5
+com.example.settings_screen.R$id: int right_side
+com.example.settings_screen.R$id: int title
+com.example.settings_screen.R$styleable: int GradientColor_android_centerY
+com.example.settings_screen.R$attr: int splitLayoutDirection
+com.example.settings_screen.R$styleable: int SplitPlaceholderRule_splitRatio
+com.example.settings_screen.R$styleable: int GradientColor_android_gradientRadius
+com.example.settings_screen.R$id: int blocking
+com.example.settings_screen.R$id: int icon_group
+com.example.settings_screen.R$drawable: int notification_tile_bg
+com.example.settings_screen.R$id: int accessibility_custom_action_16
+com.example.settings_screen.R$id: int right_icon
+com.example.settings_screen.R$color: int notification_action_color_filter
+com.example.settings_screen.R$attr: int fontProviderSystemFontFamily
+com.example.settings_screen.R$style: int TextAppearance_Compat_Notification_Line2
+com.example.settings_screen.R$id: int line3
+com.example.settings_screen.R$styleable: int ActivityRule_alwaysExpand
+com.example.settings_screen.R$id: int info
+com.example.settings_screen.R$id: int accessibility_custom_action_18
+com.example.settings_screen.R$attr: int finishSecondaryWithPrimary
+com.example.settings_screen.R$dimen: int notification_main_column_padding_top
+com.example.settings_screen.R$styleable: int[] Capability
+com.example.settings_screen.R$id: int accessibility_custom_action_31
+com.example.settings_screen.R$id: int forever
+com.example.settings_screen.R$id: int accessibility_custom_action_29
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+com.example.settings_screen.R$drawable: int notification_template_icon_bg
+com.example.settings_screen.R$id: int time
+com.example.settings_screen.R$integer: int status_bar_notification_info_maxnum
+com.example.settings_screen.R$styleable: int[] GradientColorItem
+com.example.settings_screen.R$attr: int alwaysExpand
+com.example.settings_screen.R$styleable: int SplitPairRule_splitMinWidth
+com.example.settings_screen.R$styleable: int SplitPlaceholderRule_splitMinWidth
+com.example.settings_screen.R$id: int notification_main_column_container
+com.example.settings_screen.R$styleable: int FontFamilyFont_android_fontVariationSettings
+com.example.settings_screen.R$layout: int notification_action
+com.example.settings_screen.R$dimen: int compat_button_padding_vertical_material
+com.example.settings_screen.R$color: int androidx_core_ripple_material_light
+com.example.settings_screen.R$attr: int ttcIndex
+com.example.settings_screen.R$drawable: int notification_bg_low_pressed
+com.example.settings_screen.R$id: int actions
+com.example.settings_screen.R$styleable: int[] SplitPlaceholderRule
+com.example.settings_screen.R$layout: int custom_dialog
+com.example.settings_screen.R$attr: int fontVariationSettings
+com.example.settings_screen.R$styleable: int FontFamily_fontProviderFetchTimeout
+com.example.settings_screen.R$style: int TextAppearance_Compat_Notification_Time
+com.example.settings_screen.R$styleable: int ActivityFilter_activityName
+com.example.settings_screen.R$attr: int placeholderActivityName
+com.example.settings_screen.R$id: int androidx_window_activity_scope
+com.example.settings_screen.R$layout: int notification_action_tombstone
+com.example.settings_screen.R$dimen: int notification_content_margin_start
+com.example.settings_screen.R$id: int tag_transition_group
+com.example.settings_screen.R$color: int ripple_material_light
+com.example.settings_screen.R$styleable: int FontFamily_fontProviderQuery
+com.example.settings_screen.R$string: int status_bar_notification_info_overflow
+com.example.settings_screen.R$styleable: int FontFamilyFont_ttcIndex
+com.example.settings_screen.R$styleable: int SplitPairFilter_secondaryActivityAction
+com.example.settings_screen.R$drawable: int notification_action_background
+com.example.settings_screen.R$dimen: int compat_button_padding_horizontal_material
+com.example.settings_screen.R$drawable: int notification_bg
+com.example.settings_screen.R$dimen: int notification_small_icon_size_as_large
+com.example.settings_screen.R$attr: int fontProviderCerts
+com.example.settings_screen.R$attr: int font
+com.example.settings_screen.R$id: int accessibility_custom_action_20
+com.example.settings_screen.R$styleable: int FontFamilyFont_android_ttcIndex
+com.example.settings_screen.R$styleable: int SplitPlaceholderRule_splitMinSmallestWidth
+com.example.settings_screen.R$dimen: int notification_right_icon_size
+com.example.settings_screen.R$id: int tag_screen_reader_focusable
+com.example.settings_screen.R$styleable: int SplitPlaceholderRule_splitLayoutDirection
+com.example.settings_screen.R$attr: int splitRatio
+com.example.settings_screen.R$attr: int fontProviderFetchTimeout
+com.example.settings_screen.R$id: int accessibility_custom_action_11
+com.example.settings_screen.R$id: int accessibility_custom_action_7
+com.example.settings_screen.R$layout: int notification_template_custom_big
+com.example.settings_screen.R$dimen: int notification_right_side_padding_top
+com.example.settings_screen.R$style: int TextAppearance_Compat_Notification_Info
+com.example.settings_screen.R$styleable: int ActivityFilter_activityAction
+com.example.settings_screen.R$id: int tag_accessibility_pane_title
+com.example.settings_screen.R$dimen: int compat_button_inset_vertical_material
+com.example.settings_screen.R$style: int TextAppearance_Compat_Notification_Title
+com.example.settings_screen.R$dimen: int notification_big_circle_margin
+com.example.settings_screen.R$id: int accessibility_custom_action_25
+com.example.settings_screen.R$attr: int fontProviderPackage
+com.example.settings_screen.R$dimen: int compat_notification_large_icon_max_height
+com.example.settings_screen.R$styleable: int SplitPairFilter_secondaryActivityName
+com.example.settings_screen.R$styleable: int[] FontFamilyFont
+com.example.settings_screen.R$layout: int notification_template_icon_group
+com.example.settings_screen.R$id: int accessibility_custom_action_21
+com.example.settings_screen.R$id: int line1
+com.example.settings_screen.R$styleable: int[] FontFamily
+com.example.settings_screen.R$styleable: int FontFamilyFont_fontVariationSettings
+com.example.settings_screen.R$id: int action_divider
+com.example.settings_screen.R$id: int accessibility_custom_action_4
+com.example.settings_screen.R$attr: int secondaryActivityName
+com.example.settings_screen.R$styleable: int[] SplitPairFilter
+com.example.settings_screen.R$layout: int notification_template_part_chronometer
+com.example.settings_screen.R$styleable: int[] ActivityRule
+com.example.settings_screen.R$styleable: int SplitPairRule_clearTop
+com.example.settings_screen.R$id: int dialog_button
+com.example.settings_screen.R$id: int tag_unhandled_key_listeners
+com.example.settings_screen.R$id: int accessibility_custom_action_23
+com.example.settings_screen.R$id: int accessibility_custom_action_13
+com.example.settings_screen.R$styleable: int FontFamily_fontProviderCerts
+com.example.settings_screen.R$styleable: int FontFamilyFont_font
+com.example.settings_screen.R$styleable: int SplitPairRule_splitRatio
+com.example.settings_screen.R$styleable: int SplitPairRule_finishPrimaryWithSecondary
+com.example.settings_screen.R$attr: int fontProviderQuery
+com.example.settings_screen.R$attr: int alpha
+com.example.settings_screen.R$styleable: int[] GradientColor
+com.example.settings_screen.R$id: int accessibility_action_clickable_span
+com.example.settings_screen.R$styleable: int[] ColorStateListItem
+com.example.settings_screen.R$color: int notification_icon_bg_color
+com.example.settings_screen.R$styleable: int Capability_queryPatterns
+com.example.settings_screen.R$styleable: int FontFamilyFont_android_font
+com.example.settings_screen.R$drawable: int notification_bg_low
+com.example.settings_screen.R$id: int accessibility_custom_action_22
+com.example.settings_screen.R$styleable: int SplitPairRule_splitLayoutDirection
+com.example.settings_screen.R$attr: int splitMinSmallestWidth
+com.example.settings_screen.R$styleable: int GradientColor_android_startY
+com.example.settings_screen.R$styleable: int GradientColor_android_type
+com.example.settings_screen.R$styleable: int ColorStateListItem_alpha
+com.example.settings_screen.R$drawable: int notification_icon_background
+com.example.settings_screen.R$styleable: int SplitPairRule_splitMinSmallestWidth
+com.example.settings_screen.R$id: int icon
+com.example.settings_screen.R$dimen: int notification_action_text_size
+com.example.settings_screen.R$attr: int fontProviderFetchStrategy
+com.example.settings_screen.R$styleable: int FontFamily_fontProviderPackage
+com.example.settings_screen.R$id: int accessibility_custom_action_14
+com.example.settings_screen.R$id: int accessibility_custom_action_1
+com.example.settings_screen.R$id: int accessibility_custom_action_17
+com.example.settings_screen.R$id: int notification_background
+com.example.settings_screen.R$styleable: int FontFamily_fontProviderAuthority
+com.example.settings_screen.R$id: int chronometer
+com.example.settings_screen.R$styleable: int GradientColor_android_endY
+com.example.settings_screen.R$id: int accessibility_custom_action_8
+com.example.settings_screen.R$styleable: int[] SplitPairRule
+com.example.settings_screen.R$attr: int fontWeight
+com.example.settings_screen.R$id: int accessibility_custom_action_12
+com.example.settings_screen.R$id: int text2
+com.example.settings_screen.R$attr: int nestedScrollViewStyle
+com.example.settings_screen.R$id: int action_image
+com.example.settings_screen.R$attr: int clearTop
+com.example.settings_screen.R$styleable: int Capability_shortcutMatchRequired
+com.example.settings_screen.R$styleable: int FontFamilyFont_fontStyle
+com.example.settings_screen.R$id: int tag_accessibility_heading
+com.example.settings_screen.R$styleable: int GradientColor_android_centerColor
+com.example.settings_screen.R$styleable: int SplitPlaceholderRule_placeholderActivityName
+com.example.settings_screen.R$drawable: int notification_bg_low_normal
+com.example.settings_screen.R$id: int action_container
+com.example.settings_screen.R$styleable: int FontFamilyFont_android_fontStyle
+com.example.settings_screen.R$dimen: int notification_top_pad_large_text
+com.example.settings_screen.R$styleable: int FontFamily_fontProviderSystemFontFamily
+com.example.settings_screen.R$id: int accessibility_custom_action_28
+com.example.settings_screen.R$dimen: int notification_top_pad
+com.example.settings_screen.R$attr: int fontProviderAuthority
+com.example.settings_screen.R$layout: int notification_template_part_time
+com.example.settings_screen.R$attr: int secondaryActivityAction
+com.example.settings_screen.R$styleable: int FontFamilyFont_fontWeight
+com.example.settings_screen.R$id: int tag_on_receive_content_listener
+com.example.settings_screen.R$dimen: int compat_button_inset_horizontal_material
+com.example.settings_screen.R$id: int text
+com.example.settings_screen.R$id: int accessibility_custom_action_9
+com.example.settings_screen.R$id: int tag_on_receive_content_mime_types
+com.example.settings_screen.R$id: int tag_unhandled_key_event_manager
+com.example.settings_screen.R$styleable: int FontFamily_fontProviderFetchStrategy
+com.example.settings_screen.R$id: int tag_window_insets_animation_callback
+com.example.settings_screen.R$attr: int finishPrimaryWithSecondary
+com.example.settings_screen.R$styleable: int GradientColor_android_startColor
+com.example.settings_screen.R$styleable: int GradientColorItem_android_offset
+com.example.settings_screen.R$style: int Widget_Compat_NotificationActionText
+com.example.settings_screen.R$id: int accessibility_custom_action_0
+com.example.settings_screen.R$styleable: int GradientColor_android_endColor
+com.example.settings_screen.R$drawable: int notification_bg_normal
+com.example.settings_screen.R$color: int secondary_text_default_material_light
+com.example.settings_screen.R$id: int italic
+com.example.settings_screen.R$id: int accessibility_custom_action_10
+com.example.settings_screen.R$styleable: int GradientColor_android_startX
+com.example.settings_screen.R$attr: int splitMinWidth
+com.example.settings_screen.R$id: int locale
+com.example.settings_screen.R$attr: int fontStyle
+com.example.settings_screen.R$dimen: int notification_small_icon_background_padding
+com.example.settings_screen.R$attr: int primaryActivityName
+com.example.settings_screen.R$styleable: int GradientColorItem_android_color
+com.example.settings_screen.R$attr: int queryPatterns
+com.example.settings_screen.R$styleable: int GradientColor_android_endX
+com.example.settings_screen.R$dimen: int notification_large_icon_height
+com.example.settings_screen.R$styleable: int SplitPairRule_finishSecondaryWithPrimary
+com.example.settings_screen.R$dimen: int notification_media_narrow_margin
+com.example.settings_screen.R$styleable: int SplitPairFilter_primaryActivityName
+com.example.settings_screen.R$id: int async
+com.example.settings_screen.R$id: int accessibility_custom_action_15
+com.example.settings_screen.R$attr: int activityName
+com.example.settings_screen.R$styleable: int FontFamilyFont_android_fontWeight
+com.example.settings_screen.R$styleable: int GradientColor_android_centerX
+com.example.settings_screen.R$id: int accessibility_custom_action_2
+com.example.settings_screen.R$id: int notification_main_column
+com.example.settings_screen.R$styleable: int GradientColor_android_tileMode
+com.example.settings_screen.R$drawable: int notify_panel_notification_icon_bg
+com.example.settings_screen.R$id: int accessibility_custom_action_19
+com.example.settings_screen.R$dimen: int compat_control_corner_material
+com.example.settings_screen.R$style: int Widget_Compat_NotificationActionContainer
+com.example.settings_screen.R$drawable: int notification_template_icon_low_bg
+com.example.settings_screen.R$id: int accessibility_custom_action_6
+com.example.settings_screen.R$id: int accessibility_custom_action_26
+com.example.settings_screen.R$styleable: int[] ActivityFilter
+com.example.settings_screen.R$dimen: int notification_subtext_size
+com.example.settings_screen.R$id: int tag_accessibility_actions
+com.example.settings_screen.R$id: int accessibility_custom_action_3
+com.example.settings_screen.R$id: int tag_state_description
+com.example.settings_screen.R$id: int rtl
+com.example.settings_screen.R$dimen: int notification_large_icon_width
+com.example.settings_screen.R$color: int androidx_core_secondary_text_default_material_light
+com.example.settings_screen.R$id: int tag_accessibility_clickable_spans
+com.example.settings_screen.R$drawable: int notification_bg_normal_pressed
+com.example.settings_screen.R$dimen: int notification_action_icon_size
+com.example.settings_screen.R$id: int accessibility_custom_action_30
+com.example.settings_screen.R$id: int action_text
+com.example.settings_screen.R$id: int tag_on_apply_window_listener
+com.example.settings_screen.R$id: int accessibility_custom_action_27
+com.example.settings_screen.R$id: int normal
+com.example.settings_screen.R$styleable: int ColorStateListItem_android_color
+com.example.settings_screen.R$dimen: int compat_notification_large_icon_max_width
+com.example.settings_screen.R$id: int accessibility_custom_action_24
+com.example.settings_screen.R: R()
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.example.settings_screen.R$drawable: R$drawable()
+com.example.settings_screen.R$string: R$string()
+com.example.settings_screen.R$color: R$color()
+com.example.settings_screen.R$id: R$id()
+com.example.settings_screen.R$dimen: R$dimen()
+com.example.settings_screen.R$attr: R$attr()
+com.example.settings_screen.R$layout: R$layout()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+com.example.settings_screen.R$integer: R$integer()
+com.example.settings_screen.R$styleable: R$styleable()
+com.example.settings_screen.R$style: R$style()
